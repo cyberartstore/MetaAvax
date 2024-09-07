@@ -1,0 +1,23 @@
+{
+    "Name": "MetaAvax",
+    "VM": "Subnet-EVM",
+    "VMVersion": "v0.6.9",
+    "RPCVersion": 37,
+    "Subnet": "MetaAvax",
+    "ExternalToken": false,
+    "TokenName": "MTX Token",
+    "TokenSymbol": "MTX",
+    "ChainID": "",
+    "Version": "1.4.0",
+    "Networks": null,
+    "ImportedFromAPM": false,
+    "ImportedVMID": "",
+    "CustomVMRepoURL": "",
+    "CustomVMBranch": "",
+    "CustomVMBuildScript": "",
+    "TeleporterReady": true,
+    "TeleporterKey": "cli-teleporter-deployer",
+    "TeleporterVersion": "v1.0.0",
+    "RunRelayer": true,
+    "SubnetEVMMainnetChainID": 0
+}
